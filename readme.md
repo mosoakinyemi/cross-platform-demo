@@ -4,7 +4,9 @@ This is a simple cross platform app (web, Android and iOS) from a single code ba
 It uses [Suspense](https://reactjs.org/docs/concurrent-mode-suspense.html) to handle rendering during API calls to a free news API.
 Several components are shared accross the web and mobile app.
 
-![ezgif-4-a2f56c8cee4b](https://user-images.githubusercontent.com/41248079/127674781-851f1e6a-aa1f-4df8-8137-d9d484c75494.gif)
+## Demo
+
+![Demo Gif](docs/cross-platform-demo.gif)
 
 ## To run web-app
 
